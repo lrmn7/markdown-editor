@@ -1,0 +1,6 @@
+{
+    "discord.removeRemoteRepository": true,
+    "discord.idleTimeout": 0,
+    "discord.enabled": true,
+    "discord.removeDetails": false
+}
